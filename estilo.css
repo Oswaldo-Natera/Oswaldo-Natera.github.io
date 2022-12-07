@@ -1,0 +1,23 @@
+.container{
+    text-align: justify;
+}
+span{
+    font-style: italic;
+}
+#libro1{
+    border: solid;
+}
+#libro2{
+    border: solid;
+}
+img{
+    background-position: center;
+}
+#p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #767171;
+    font-size: small;
+}
+footer{
+    border: solid;
+}
